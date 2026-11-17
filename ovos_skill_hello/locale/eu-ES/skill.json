@@ -1,0 +1,14 @@
+{
+  "skill_id": "ovos-skill-hello.emkay-voice",
+  "source": "https://github.com/emkay-voice/skill-template",
+  "name": "Kaixo",
+  "description": "Nire lehen skilla: kaixo esaten diozunean erantzuten du.",
+  "examples": [
+    "Kaixo nire skilletik",
+    "Exekutatu nire lehen skilla"
+  ],
+  "tags": [
+    "hello",
+    "emkay"
+  ]
+}

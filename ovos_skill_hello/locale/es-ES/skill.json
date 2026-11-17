@@ -1,0 +1,14 @@
+{
+  "skill_id": "ovos-skill-hello.emkay-voice",
+  "source": "https://github.com/emkay-voice/skill-template",
+  "name": "Hola",
+  "description": "Mi primera skill: responde cuando le dices hola.",
+  "examples": [
+    "Hola desde mi skill",
+    "Ejecuta mi primera skill"
+  ],
+  "tags": [
+    "hello",
+    "emkay"
+  ]
+}

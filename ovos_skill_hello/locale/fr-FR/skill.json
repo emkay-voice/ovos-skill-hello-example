@@ -1,0 +1,14 @@
+{
+  "skill_id": "ovos-skill-hello.emkay-voice",
+  "source": "https://github.com/emkay-voice/skill-template",
+  "name": "Bonjour",
+  "description": "Ma première skill : elle répond quand vous lui dites bonjour.",
+  "examples": [
+    "Bonjour de ma skill",
+    "Lance ma première skill"
+  ],
+  "tags": [
+    "hello",
+    "emkay"
+  ]
+}
