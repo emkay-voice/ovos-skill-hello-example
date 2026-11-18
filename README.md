@@ -56,6 +56,14 @@ all three places, so a sentence that passes in Emkay passes in
 ovos-tui-client and in the [Emkay store](https://store.emkay.ai)'s
 checks too.
 
+## Show it
+
+To show your skill in [See my skill](https://dev.emkay.ai/#gallery) on
+dev.emkay.ai – ready or not – add the topic `emkay-skill` to your repository
+(the ⚙ next to *About* on its page). Others can then try it in their Emkay,
+or edit it in their own copy (a fork) and send you a pull request. Remove the
+topic, or make the repository private, to take it away again.
+
 ## When it works
 
 Nobody approves a skill by hand: it gets into the
