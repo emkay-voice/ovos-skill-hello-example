@@ -1,4 +1,4 @@
-hej fra min skill
-sig hej fra min skill
-kør min første skill
-test min første skill
+(hej|goddag) fra min (skill|første skill)
+sig (hej|goddag) fra min (skill|første skill)
+(kør|start|prøv) min første skill
+test min (første|nye) skill

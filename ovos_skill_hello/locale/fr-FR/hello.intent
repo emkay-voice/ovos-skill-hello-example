@@ -1,4 +1,4 @@
-bonjour de ma skill
-dis bonjour de ma skill
-lance ma première skill
-teste ma première skill
+(bonjour|salut) de ma (skill|première skill)
+dis (bonjour|salut) de ma (skill|première skill)
+(lance|démarre|essaie) ma première skill
+teste ma (première|nouvelle) skill

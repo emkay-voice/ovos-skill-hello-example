@@ -1,4 +1,5 @@
-hallo von meinem skill
-sag hallo von meinem skill
-starte meinen ersten skill
-teste meinen ersten skill
+(hallo|hi) von meinem (skill|ersten skill)
+sag (hallo|hi) von meinem (skill|ersten skill)
+(starte|öffne) meinen ersten skill
+führe meinen ersten skill aus
+teste meinen (ersten|neuen) skill

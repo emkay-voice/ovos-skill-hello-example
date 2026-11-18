@@ -1,4 +1,4 @@
-ciao dalla mia skill
-saluta dalla mia skill
-avvia la mia prima skill
-prova la mia prima skill
+(ciao|salve) dalla mia (skill|prima skill)
+saluta dalla mia (skill|prima skill)
+(avvia|apri|lancia) la mia prima skill
+prova la mia (prima|nuova) skill

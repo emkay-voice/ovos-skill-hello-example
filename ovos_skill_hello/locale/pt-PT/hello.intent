@@ -1,4 +1,4 @@
-olá da minha skill
-diz olá da minha skill
-executa a minha primeira skill
-testa a minha primeira skill
+(olá|viva) da minha (skill|primeira skill)
+diz (olá|viva) da minha (skill|primeira skill)
+(executa|abre|inicia) a minha primeira skill
+testa a minha (primeira|nova) skill

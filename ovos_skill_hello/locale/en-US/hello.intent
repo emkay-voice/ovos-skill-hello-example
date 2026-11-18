@@ -1,4 +1,4 @@
-hello from my skill
-say hello from my skill
-run my first skill
-test my first skill
+(hello|hi) from my (skill|first skill)
+say (hello|hi) from my (skill|first skill)
+(run|start|try) my first skill
+test my (first|new) skill

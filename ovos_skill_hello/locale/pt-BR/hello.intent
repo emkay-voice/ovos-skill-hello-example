@@ -1,4 +1,4 @@
-olá da minha skill
-diga olá da minha skill
-rode minha primeira skill
-teste minha primeira skill
+(olá|oi) da minha (skill|primeira skill)
+diga (olá|oi) da minha (skill|primeira skill)
+(rode|abra|inicie) minha primeira skill
+teste minha (primeira|nova) skill

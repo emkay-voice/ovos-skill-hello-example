@@ -1,4 +1,4 @@
-hola desde mi skill
-di hola desde mi skill
-ejecuta mi primera skill
-prueba mi primera skill
+(hola|buenas) desde mi (skill|primera skill)
+di (hola|buenas) desde mi (skill|primera skill)
+(ejecuta|abre|inicia) mi primera skill
+prueba mi (primera|nueva) skill
