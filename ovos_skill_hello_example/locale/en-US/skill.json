@@ -1,6 +1,6 @@
 {
-  "skill_id": "ovos-skill-hello.emkay-voice",
-  "source": "https://github.com/emkay-voice/skill-template",
+  "skill_id": "ovos-skill-hello-example.emkay-voice",
+  "source": "https://github.com/emkay-voice/ovos-skill-hello-example",
   "name": "Hello",
   "description": "My first skill: it answers when you say hello to it.",
   "examples": [

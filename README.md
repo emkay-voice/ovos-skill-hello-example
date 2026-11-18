@@ -7,6 +7,10 @@ browser – answer the new ones a second after you save.
 
 **👉 The friendly guide: <https://dev.emkay.ai>**
 
+It is a complete, working skill – install it and it answers – and the
+example to start your own from: *Use this template*, or *Emkay: New skill*
+in VS Code, which gives it your names.
+
 ## Three ways to start
 
 | | What you need | How |
@@ -23,7 +27,7 @@ then removes itself.
 ## What is in a skill
 
 ```
-ovos_skill_hello/
+ovos_skill_hello_example/
   __init__.py              the code: what happens when an intent is heard
   locale/
     en-US/
