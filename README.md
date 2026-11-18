@@ -58,7 +58,26 @@ checks too.
 
 ## When it works
 
-Push it to GitHub and publish it on PyPI (`python -m build`, `twine upload`)
-– then anyone can install it on their OpenVoiceOS, and it can be listed in
-the [Emkay store](https://store.emkay.ai). More on writing skills:
+Nobody approves a skill by hand: it gets into the
+[Emkay store](https://store.emkay.ai) by itself, in steps, usually within a
+day or two.
+
+1. **Make it findable.** On your repository's page, the ⚙ next to *About* →
+   *Topics*: `ovos` and `openvoiceos`.
+   [OVOS Klondike Mercantile](https://andlo.github.io/ovos-klondike-mercantile/)
+   searches GitHub for those every few hours.
+2. **Publish it.** Once, on pypi.org: *Publishing* → *Add a new pending
+   publisher* (this repository, workflow `publish.yml`, environment `pypi`).
+   Then *Releases* → *Draft a new release* → a tag like `v0.1.0` → *Publish*,
+   and [`publish.yml`](.github/workflows/publish.yml) puts it on PyPI. With an
+   entry point, a PyPI package and a release, Klondike calls it *Looks
+   Complete*.
+3. **The store tests it.** Each night the store installs new skills in a real
+   Emkay, says the example phrases from `locale/en-US/skill.json` and checks
+   that *your* skill answered. Then it is listed as *Works in Emkay*, or left
+   out with the reason (say, a library that does not work in a browser). A new
+   version on PyPI is tested again.
+
+Anyone can also `pip install` it on their OpenVoiceOS, or install it straight
+from GitHub in Emkay. More on writing skills:
 [the OpenVoiceOS technical manual](https://openvoiceos.github.io/ovos-technical-manual/).
